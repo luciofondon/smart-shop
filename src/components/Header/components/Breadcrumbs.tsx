@@ -17,6 +17,7 @@ const Breadcrumbs = () => {
             crumb.path ?
               <Link className='breadcrumbs__link' to={crumb.path}>{`${crumb.title} /`}</Link> 
               :
+              
               <div className='breadcrumbs__link breadcrumbs__link--disabled'> {crumb.title}</div>
           }
         </>

@@ -1,0 +1,19 @@
+.list-items {
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(25rem, 1fr));
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+}
+
+.search-items {
+    height: 80px;
+    float: right;
+    width: 100%;
+    margin-top: 20px;
+    text-align: right;
+    padding-right: 60px;
+}

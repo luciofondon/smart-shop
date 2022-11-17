@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Item 1`] = `
+<div>
+  <div
+    class="item"
+  >
+    <a
+      href="/detail/cGjFJlmqNPIwU59AOcY8H"
+    >
+      <div
+        class="img"
+      >
+         
+        <img
+          height="110"
+          src="https://front-test-api.herokuapp.com/images/cGjFJlmqNPIwU59AOcY8H.jpg"
+          width="80"
+        />
+      </div>
+      <div
+        class="detail"
+      >
+        <div
+          class="model"
+        >
+          Liquid Z6 Plus
+        </div>
+        <div
+          class="brand"
+        >
+          Acer
+        </div>
+        <div
+          class="price"
+        >
+           
+          220
+          €
+        </div>
+      </div>
+    </a>
+  </div>
+</div>
+`;

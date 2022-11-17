@@ -1,0 +1,41 @@
+.item {
+    padding: 60px;
+    height: 250px;
+    box-sizing: border-box;
+}
+
+.item__image {
+    width: 60%;
+    height: 150px;
+    float: left;
+}
+
+.item__detail {
+    width: 40%;
+    float: right;
+}
+
+.item__detail-model {
+    padding-top: 10px;
+    font-size: 18px;
+}
+
+.item__detail-brand {
+    padding-top: 10px;
+    font-size: 14px;
+}
+
+.item__detail-price {
+    padding-top: 20px;
+}
+
+.currency-value {
+    font-size: 35px;
+    float: left;
+}
+
+.currency {
+    font-size: 15px;
+    float: left;
+
+}

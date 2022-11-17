@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render ErrorPage 1`] = `
+<div>
+  <div
+    class="error-page"
+  >
+    Pagina no existe
+    <div
+      class="redirect"
+    >
+      <a
+        href="/list"
+      >
+        REDIRECCIONAR
+      </a>
+    </div>
+  </div>
+</div>
+`;

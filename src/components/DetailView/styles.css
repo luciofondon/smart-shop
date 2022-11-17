@@ -1,0 +1,15 @@
+.product {
+    padding-top: 80px;
+    margin: auto;
+    height: 600px;
+    width: 60%;
+    display: grid;
+    gap: 3rem;
+    grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+}
+
+.product__img {
+    width: 40%;
+    text-align: center;
+    padding-top: 60px;
+}

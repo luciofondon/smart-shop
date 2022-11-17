@@ -1,0 +1,15 @@
+.breadcrumbs {
+    padding-left: 40px;
+    padding-top: 10px;
+}
+
+.breadcrumbs__link {
+    float: left;
+    color: rgba(0, 0, 0, 0.6);
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.breadcrumbs__link--disabled {
+    color: rgba(0, 0, 0)
+}

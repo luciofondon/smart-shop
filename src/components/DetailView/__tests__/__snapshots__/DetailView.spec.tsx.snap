@@ -1,0 +1,349 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render DetailView with Loading: empty 1`] = `
+<div>
+  <div
+    class="loading"
+  >
+    Cargando...
+  </div>
+</div>
+`;
+
+exports[`render DetailView with Product: data 1`] = `
+<div>
+  <div
+    class="product-detail"
+  >
+    <div
+      class="img-detail"
+    >
+      <img
+        src="https://front-test-api.herokuapp.com/images/P2oqviM96_ozwsgZkj9Xf.jpg"
+      />
+    </div>
+    <div
+      class="info-detail"
+    >
+      <div>
+        <div
+          class="item-description"
+        >
+          <div
+            class="title-description"
+          >
+            Marca
+          </div>
+          <div
+            class="value-description"
+          >
+            Alcatel
+          </div>
+        </div>
+        <div
+          class="item-description"
+        >
+          <div
+            class="title-description"
+          >
+            Modelo
+          </div>
+          <div
+            class="value-description"
+          >
+            Liquid Z6 Plus
+          </div>
+        </div>
+        <div
+          class="item-description"
+        >
+          <div
+            class="title-description"
+          >
+            Precio
+          </div>
+          <div
+            class="value-description"
+          >
+            220
+          </div>
+        </div>
+        <div
+          class="item-description"
+        >
+          <div
+            class="title-description"
+          >
+            CPU
+          </div>
+          <div
+            class="value-description"
+          >
+            Alcatel
+          </div>
+        </div>
+        <div
+          class="item-description"
+        >
+          <div
+            class="title-description"
+          >
+            RAM
+          </div>
+          <div
+            class="value-description"
+          >
+            Octa-core 1.3 GHz Cortex-A53
+          </div>
+        </div>
+        <div
+          class="item-description"
+        >
+          <div
+            class="title-description"
+          >
+            Sistema operativo
+          </div>
+          <div
+            class="value-description"
+          />
+        </div>
+        <div
+          class="item-description"
+        >
+          <div
+            class="title-description"
+          >
+            Resolucion
+          </div>
+          <div
+            class="value-description"
+          >
+            5.5 inches 
+          </div>
+        </div>
+        <div
+          class="item-description"
+        >
+          <div
+            class="title-description"
+          >
+            Batería
+          </div>
+          <div
+            class="value-description"
+          >
+            Removable Li-Po 4080 mAh battery
+          </div>
+        </div>
+        <div
+          class="item-description"
+        >
+          <div
+            class="title-description"
+          >
+            Cámara principal
+          </div>
+          <div
+            class="value-description"
+          >
+            13 MPautofocusLED flash
+          </div>
+        </div>
+        <div
+          class="item-description"
+        >
+          <div
+            class="title-description"
+          >
+            Cámara secundaria
+          </div>
+          <div
+            class="value-description"
+          >
+            5 MP
+          </div>
+        </div>
+        <div
+          class="item-description"
+        >
+          <div
+            class="title-description"
+          >
+            Cámara secundaria
+          </div>
+          <div
+            class="value-description"
+          >
+            5 MP
+          </div>
+        </div>
+        <div
+          class="item-description"
+        >
+          <div
+            class="title-description"
+          >
+            Dimensiones
+          </div>
+          <div
+            class="value-description"
+          >
+            153.8 x 75.6 x 8.5 mm (6.06 x 2.98 x 0.33 in)
+          </div>
+        </div>
+        <div
+          class="item-description"
+        >
+          <div
+            class="title-description"
+          >
+            Peso
+          </div>
+          <div
+            class="value-description"
+          >
+            169
+          </div>
+        </div>
+      </div>
+      <div
+        class="action-form"
+      >
+        <form>
+          <div
+            class="form-select"
+          >
+            <div
+              class="MuiFormControl-root MuiFormControl-fullWidth css-q8hpuo-MuiFormControl-root"
+            >
+              <label
+                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-colorPrimary MuiFormLabel-filled MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined css-1sumxir-MuiFormLabel-root-MuiInputLabel-root"
+                data-shrink="true"
+                id="storage-label"
+              >
+                Almacenamiento
+              </label>
+              <div
+                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-formControl  css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root"
+              >
+                <div
+                  aria-expanded="false"
+                  aria-haspopup="listbox"
+                  aria-labelledby="storage-label mui-component-select-storage"
+                  class="MuiSelect-select MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input"
+                  id="mui-component-select-storage"
+                  role="button"
+                  tabindex="0"
+                >
+                  100GB
+                </div>
+                <input
+                  aria-hidden="true"
+                  class="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+                  name="storage"
+                  tabindex="-1"
+                  value="1"
+                />
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconOutlined css-hfutr2-MuiSvgIcon-root-MuiSelect-icon"
+                  data-testid="ArrowDropDownIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M7 10l5 5 5-5z"
+                  />
+                </svg>
+                <fieldset
+                  aria-hidden="true"
+                  class="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+                >
+                  <legend
+                    class="css-14lo706"
+                  >
+                    <span>
+                      Almacenamiento
+                    </span>
+                  </legend>
+                </fieldset>
+              </div>
+            </div>
+          </div>
+          <div
+            class="form-select"
+          >
+            <div
+              class="MuiFormControl-root MuiFormControl-fullWidth css-q8hpuo-MuiFormControl-root"
+            >
+              <label
+                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined MuiFormLabel-colorPrimary MuiFormLabel-filled MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-outlined css-1sumxir-MuiFormLabel-root-MuiInputLabel-root"
+                data-shrink="true"
+                id="color-label"
+              >
+                Color
+              </label>
+              <div
+                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-formControl  css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root"
+              >
+                <div
+                  aria-expanded="false"
+                  aria-haspopup="listbox"
+                  aria-labelledby="color-label mui-component-select-color"
+                  class="MuiSelect-select MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input"
+                  id="mui-component-select-color"
+                  role="button"
+                  tabindex="0"
+                >
+                  Rojo
+                </div>
+                <input
+                  aria-hidden="true"
+                  class="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+                  name="color"
+                  tabindex="-1"
+                  value="1"
+                />
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconOutlined css-hfutr2-MuiSvgIcon-root-MuiSelect-icon"
+                  data-testid="ArrowDropDownIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M7 10l5 5 5-5z"
+                  />
+                </svg>
+                <fieldset
+                  aria-hidden="true"
+                  class="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+                >
+                  <legend
+                    class="css-14lo706"
+                  >
+                    <span>
+                      Color
+                    </span>
+                  </legend>
+                </fieldset>
+              </div>
+            </div>
+          </div>
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-1e6y48t-MuiButtonBase-root-MuiButton-root"
+            tabindex="0"
+            type="submit"
+          >
+            Añadir a la cesta
+            <span
+              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+            />
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+`;

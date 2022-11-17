@@ -1,0 +1,40 @@
+header {
+
+
+
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(88, 94, 95) 100%);
+    height: 70px;
+    position: sticky;
+    top: 0;
+}
+
+.shopping-cart {
+    float: right;
+    padding-right: 40px;
+    padding-top: 5px;
+    color: azure;
+
+}
+
+.title {
+    float: left;
+    color: azure;
+    font-size: 40px;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.logo-shop{
+    float:left;
+}
+
+.title-shop{
+    float:left;
+
+}

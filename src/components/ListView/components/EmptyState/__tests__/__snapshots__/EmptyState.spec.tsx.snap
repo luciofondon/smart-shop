@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render EmptyState 1`] = `
+<div>
+  <div
+    class="empty-state"
+  >
+    No hay datos para mostrar
+  </div>
+</div>
+`;
